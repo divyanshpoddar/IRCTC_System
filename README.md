@@ -233,16 +233,3 @@ Set the following environment variables for security purposes:
 - `SECRET_KEY`: Django secret key.
 
 ```
-
-### How to Use:
-1. Copy this content into a `README.md` file and save it in your project directory.
-2. Customize the project-specific details like repository URL, database settings, etc.
-3. Once saved, push it to your GitHub repository:
-
-```bash
-git add README.md
-git commit -m "Add README file"
-git push
-```
-
-Let me know if you need further modifications!
