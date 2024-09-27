@@ -231,5 +231,3 @@ Set the following environment variables for security purposes:
 
 - `ADMIN_API_KEY`: API key used to secure admin endpoints.
 - `SECRET_KEY`: Django secret key.
-
-```
